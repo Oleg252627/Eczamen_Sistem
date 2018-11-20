@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eczamen_sistem", "Eczamen_sistem\Eczamen_sistem.csproj", "{ADD58040-3243-4A0E-9E27-0E2833176298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD58040-3243-4A0E-9E27-0E2833176298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD58040-3243-4A0E-9E27-0E2833176298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD58040-3243-4A0E-9E27-0E2833176298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD58040-3243-4A0E-9E27-0E2833176298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AFDC2E-056F-4A21-B2F1-440531F33D93}
+	EndGlobalSection
+EndGlobal
