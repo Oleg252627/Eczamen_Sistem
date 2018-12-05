@@ -1,0 +1,15 @@
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Eczamen_sistem.exe.config
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Eczamen_sistem.exe
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Eczamen_sistem.pdb
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.csprojAssemblyReference.cache
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.Form1.resources
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.Properties.Resources.resources
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.csproj.GenerateResource.cache
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.csproj.CoreCompileInputs.cache
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.exe
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.pdb
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Newtonsoft.Json.dll
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Newtonsoft.Json.pdb
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Newtonsoft.Json.xml
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\obj\Debug\Eczamen_sistem.csproj.CopyComplete
+E:\git\Eczamen_Sistem\Eczamen_sistem\Eczamen_sistem\bin\Debug\Bunifu_UI_v1.5.3.dll
